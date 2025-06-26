@@ -138,8 +138,7 @@
     "webpack-dev-server": "^3"
   },
   "engines": {
-    "node": ">=10.x",
-    "npm": ">=6.x",
+    "node": "14.17.4",
     "yarn": ">=1.x"
   },
   "husky": {
